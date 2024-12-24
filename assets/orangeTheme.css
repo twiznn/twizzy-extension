@@ -1,0 +1,48 @@
+.twizzy, [data-theme=twizzy] {
+    /* Primary Colors */
+    --twc-positive: 24 100% 50%;      /* Brighter orange */
+    --twc-positive-tron: 24 100% 60%;
+    --twc-positive-bg: 24 100% 40%;
+
+    /* Orange Gradients */
+    --twc-orange-50: 24 100% 98%;
+    --twc-orange-100: 24 100% 90%;
+    --twc-orange-200: 24 100% 80%;
+    --twc-orange-300: 24 100% 70%;
+    --twc-orange-400: 24 100% 60%;    
+    --twc-orange-500: 24 100% 50%;    /* Brighter orange */
+    --twc-orange-600: 24 100% 40%;
+    --twc-orange-700: 24 100% 30%;
+    --twc-orange-800: 24 100% 20%;    
+    --twc-orange-900: 24 100% 15%;
+    --twc-orange-950: 24 100% 10%;
+
+    /* Grey Colors */
+    --twc-grey-0: 0 0% 100%;          /* White */
+    --twc-grey-50: 24 15% 90%;
+    --twc-grey-100: 24 15% 80%;
+    --twc-grey-200: 24 15% 70%;
+    --twc-grey-300: 24 15% 60%;
+    --twc-grey-400: 24 15% 50%;
+    --twc-grey-450: 24 15% 40%;
+    --twc-grey-475: 24 15% 30%;
+    --twc-grey-500: 24 15% 20%;
+    --twc-grey-600: 24 15% 15%;      
+    --twc-grey-700: 24 15% 12%;
+    --twc-grey-800: 24 15% 10%;
+    --twc-grey-850: 24 15% 8%;
+    --twc-grey-900: 24 15% 6%;
+    --twc-grey-1000: 24 15% 4%;
+
+    /* Accent Colors */
+    --twc-accent-50: 24 100% 97%;
+    --twc-accent-100: 24 100% 90%;
+    --twc-accent-200: 24 100% 80%;
+    --twc-accent-300: 24 100% 70%;
+    --twc-accent-400: 24 100% 60%;    
+    --twc-accent-500: 24 100% 50%;    /* Brighter orange */
+    --twc-accent-600: 24 100% 45%;
+    --twc-accent-700: 24 100% 40%;
+    --twc-accent-800: 24 100% 35%;
+    --twc-accent-900: 24 100% 30%;
+}
